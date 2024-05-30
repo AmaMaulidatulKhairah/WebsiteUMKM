@@ -1,0 +1,13 @@
+.card {
+    max-width: 600px;
+    margin: auto; 
+    background-color: rgb(124, 119, 114);
+    color: hsl(0, 100%, 98%);
+    border-radius: 10px;
+    overflow: hidden; 
+  }
+
+  .card-text {
+    padding: 20px;
+  }
+  
